@@ -29,6 +29,7 @@ func main() {
 	// Quebra as linhas entre as letras(incluindo o espaço) e me mostra o indicie da cada letra
 	text := "I love writing programs using GO"
 	for index, letter := range text {
+
 		fmt.Printf("Text[%d] = %q\r\n", index, letter)
 	}
 }
