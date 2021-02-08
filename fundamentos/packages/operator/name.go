@@ -3,7 +3,7 @@ package operator
 import (
 	"strconv"
 
-	"github.com/douglasandradeee/GoExercicies/packages/prefix"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/packages/prefix"
 )
 
 // OperatorName - Define the name of the operator.

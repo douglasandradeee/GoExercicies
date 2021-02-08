@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/handlingError/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/handlingError/model"
 )
 
 func main() {

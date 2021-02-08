@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/douglasandradeee/GoExercicies/writeFiles/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/writeFiles/model"
 )
 
 func main() {

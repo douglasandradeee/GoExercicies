@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/advancedFunctions/mathy"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/advancedFunctions/mathy"
 )
 
 func main() {

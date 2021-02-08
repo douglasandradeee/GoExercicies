@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/goBuild/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/goBuild/model"
 )
 
 /*

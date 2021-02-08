@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/douglasandradeee/GoExercicies/writeFiles/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/writeFiles/model"
 )
 
 var orchestrator sync.WaitGroup

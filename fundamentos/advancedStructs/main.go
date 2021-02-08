@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/advancedStructs/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/advancedStructs/model"
 )
 
 func main() {

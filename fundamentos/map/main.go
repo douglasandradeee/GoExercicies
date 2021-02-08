@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/advancedStructs/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/advancedStructs/model"
 )
 
 var cache map[string]model.Immobile

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/packages/operator"
-	"github.com/douglasandradeee/GoExercicies/packages/prefix"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/packages/operator"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/packages/prefix"
 )
 
 // UserName -

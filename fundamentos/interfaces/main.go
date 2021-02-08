@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/douglasandradeee/GoExercicies/interfaces/model"
+	"github.com/douglasandradeee/GoExercicies/fundamentos/interfaces/model"
 )
 
 func main() {
