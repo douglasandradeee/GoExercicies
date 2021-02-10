@@ -9,9 +9,10 @@ import (
 
 func ServerTest() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "Hellow World!!")
+		fmt.Fprintf(w, "Hello World!!")
 	})
-	http.HandleFunc("/handleNotice", handler.Notice)
+	http.HandleFunc("/notice", handler.Notice)
+	http.HandleFunc("/hello", handler.Hello)
 	fmt.Println("Servidor iniciado ....")
 	http.ListenAndServe(":8181", nil)
 }
